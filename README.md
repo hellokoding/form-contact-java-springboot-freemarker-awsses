@@ -1,7 +1,7 @@
 # Contact Form Example with Java, Spring Boot, FreeMarker, Amazon SES
 
 ## Guide
-https://hellokoding.com/spring-boot-hello-world-example-with-freemarker/
+https://hellokoding.com/contact-form-example-with-java-spring-boot-freemarker-and-amazon-ses/
 
 ## What you'll need
 - JDK 1.7+
