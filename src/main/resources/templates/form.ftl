@@ -27,7 +27,7 @@
                 <@spring.showErrors "<br>"/>
                 <br><br>
                 Message:<br>
-                <@spring.formTextarea "user.message" rows="4" cols="10"/>
+                <@spring.formTextarea "user.message"/>
                 <@spring.showErrors "<br>"/>
                 <br><br>
                 <input type="submit" value="Submit">
